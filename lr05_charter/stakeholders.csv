@@ -6,3 +6,8 @@ ST-04,"Викладач іншої кафедри, що веде Agile і мож
 ST-05,"ІТ-служба академії (хостинг, домен, правила щодо даних студентів)",Університет,low,high,neutral,keep_satisfied,PM
 ST-06,"Проєктна команда (розробка, тестування, UX)",Проєктна команда,high,high,supporter,manage_closely,PM
 ST-07,Служба інформаційної безпеки академії,Університет,low,high,neutral,keep_satisfied,PM
+ST-08,PM (я),Проєктна команда,high,high,supporter,manage_closely,PM
+ST-09,BA (бізнес-аналітик),Проєктна команда,high,low,supporter,keep_informed,PM
+ST-10,Dev (розробник),Проєктна команда,high,low,supporter,keep_informed,PM
+ST-11,QA (інженер з якості),Проєктна команда,high,high,supporter,manage_closely,PM
+ST-12,UX (дизайнер інтерфейсу),Проєктна команда,high,low,supporter,keep_informed,PM
