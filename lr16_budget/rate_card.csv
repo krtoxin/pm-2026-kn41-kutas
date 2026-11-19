@@ -1,1 +1,6 @@
 role,fte,hours,rate,source,note
+PM,0.5,320,430,https://dou.ua/lenta/articles/salary-report-non-tech-summer-2025/,"Друга за ціною роль, бо PM на ринку майже на рівні розробника, а в цьому проєкті ще й тримає погодження з двома службами академії"
+BA,0.5,320,380,https://dou.ua/lenta/articles/salary-report-non-tech-summer-2025/,"Дешевша за PM, але дорожча за QA і UX, бо на BA лежить аналіз брудних даних замовника перед міграцією"
+Dev,1.5,960,450,https://jobs.dou.ua/salaries/,"Найдорожча година в команді і половина всіх годин проєкту, тому ставка розробника найбільше рухає blended rate"
+QA,0.5,320,340,https://dou.ua/lenta/articles/salary-report-qa-summer-2025/,"Найнижча ставка, бо медіана QA в огляді DOU нижча за медіани розробників і менеджерів"
+UX,0.25,160,360,https://dou.ua/lenta/articles/salary-report-non-tech-summer-2025/,"Трохи дорожча за QA, але дешевша за BA, бо дизайнер на чверть ставки робить ескізи, а не веде проєкт"
